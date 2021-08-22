@@ -1,5 +1,5 @@
 body {
-  background-color: azure;
+  background-color: rgb(250, 182, 103);
 }
 
 .title {
@@ -21,7 +21,7 @@ body {
   margin-right: 5cm;
   padding-bottom: 2cm;
   border-radius: 5%;
-  background-color: lightsteelblue;
+  background-color: rgb(98, 245, 154);
   font-family: "Playfair Display", serif;
   font-size: xx-large;
 }
